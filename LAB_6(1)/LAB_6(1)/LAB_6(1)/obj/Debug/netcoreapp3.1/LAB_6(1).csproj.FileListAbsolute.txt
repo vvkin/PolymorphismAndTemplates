@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).exe
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).deps.json
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).runtimeconfig.json
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).dll
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\bin\Debug\netcoreapp3.1\LAB_6(1).pdb
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\obj\Debug\netcoreapp3.1\LAB_6(1).csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\obj\Debug\netcoreapp3.1\LAB_6(1).AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\obj\Debug\netcoreapp3.1\LAB_6(1).AssemblyInfo.cs
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\obj\Debug\netcoreapp3.1\LAB_6(1).dll
+C:\Users\Admin\Desktop\Directories\LAB_OP\LAB_6(1)\LAB_6(1)\LAB_6(1)\obj\Debug\netcoreapp3.1\LAB_6(1).pdb
